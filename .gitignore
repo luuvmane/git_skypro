@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+key_git
+key_git.pub
+ssh_key
+ssh_key.pub
